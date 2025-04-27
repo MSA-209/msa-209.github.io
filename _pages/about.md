@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.gatech.edu/'>Georgia Institute of Technology</a>.225 North Ave NW, Atlanta, GA 30332. ryandoan50@gmail.com, LinkedIn: ryandoan21. Always Learning
+subtitle: <a href='https://www.gatech.edu/'>Georgia Institute of Technology</a>.225 North Ave NW, Atlanta, GA 30332. ryandoan50@gmail.com LinkedIn: ryandoan21. Always Learning
 
 profile:
   align: right
