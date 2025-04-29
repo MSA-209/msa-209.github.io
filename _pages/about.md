@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.gatech.edu/'>Georgia Institute of Technology</a>.225 North Ave NW, Atlanta, GA 30332. ryandoan50@gmail.com LinkedIn: ryandoan21. Always Learning
+# Wrap the subtitle value in quotes to treat the colon as part of the string
+subtitle: "<a href='https://www.gatech.edu/'>Georgia Institute of Technology</a>. 225 North Ave NW, Atlanta, GA 30332. ryandoan50@gmail.com LinkedIn: ryandoan21. Always Learning"
 
 profile:
   align: right
@@ -25,4 +26,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Computer Science major for Georgia Tech with specializations in AI and infonetworks. 
+I am a Computer Science major for Georgia Tech with specializations in AI and infonetworks.
