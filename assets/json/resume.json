@@ -1,200 +1,198 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ryan Doan",
+    "label": "Student", // Assuming label based on content
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "rdoan9@gatech.edu",
+    "phone": "", // Not provided in tex
+    "url": "https://msa-209.github.io/", // From tex homepage field
+    "summary": "Computer Science student at Georgia Institute of Technology with experience in web design, research assistance, and software development projects.", // Generated summary
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "", // Not provided in tex
+      "postalCode": "", // Not provided in tex
+      "city": "Atlanta", // Inferred from Education/Experience
+      "countryCode": "US", // Inferred
+      "region": "GA" // Inferred
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "linkedin",
+        "username": "ryandoan21",
+        "url": "https://linkedin.com/in/ryandoan21" // Assumed URL structure
+      },
+      {
+        "network": "github",
+        "username": "MSA-209",
+        "url": "https://github.com/MSA-209" // Assumed URL structure
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Super Purposes", // From Experience section
+      "position": "Web Designer Specialist",
+      "url": "", // Not provided in tex
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "Conceptualize and create intuitive, engaging, and brand-consistent web experiences. Continually improve and optimize user experience for sites using HTML and CSS. Collaborate in concept development and design ideation cross-functionally.",
+      "highlights": [
+        "Conceptualize and create intuitive, engaging, and brand-consistent web experiences",
+        "Continually improve and optimize user experience for sites using HTML and CSS",
+        "Collaborate in concept development and design ideation cross-functionally"
+      ]
+    },
+    {
+      "name": "Georgia Institute of Technology", // From Experience section (Grader)
+      "location": "School of Mathematics", // From Experience section (Grader)
+      "position": "Grader",
+      "url": "", // Not provided in tex
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "Grade and proctor hundreds of students in statistics and applications. Interacted with professors on creating consistent grading rubrics.",
+      "highlights": [
+        "Grade and procter hundreds of students in statistics and applications",
+        "Interacted with professors on creating consistent grading rubrics"
+      ]
+    },
+     {
+      "name": "Georgia Institute of Technology", // From Research section
+      "location": "College of Computing", // From Research section
+      "position": "Research Assistant",
+      "url": "", // Not provided in tex
+      "startDate": "2024",
+      "endDate": "", // Only start date provided
+      "summary": "Researched various generative AI tools for design and implementation of software processes. Designed various diagrams for ChromeOS Whiteboard using LucidChart, Eraser.io, and Figma. Involved in the development of various MMFs for ChromeOS Whiteboard using modified MERN stack. Reviewed students diagrams on the quality created and gave feedback on how to improve future diagrams. Highlighted AI tool impact of increasing productivity by around 50% compared to traditional methods.",
+      "highlights": [
+        "Researched various generative AI tools for design and implementation of software processes",
+        "Designed various diagrams for ChromeOS Whiteboard using LucidChart, Eraser.io, and Figma",
+        "Involved in the development of various MMFs for ChromeOS Whiteboard using modified MERN stack",
+        "Reviewed students diagrams on the quality created and gave feedback on how to improve future diagrams",
+        "Highlighted AI tool impact of increasing productivity by around 50% compared to traditional methods"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "GreyHat", // From Experience section (Member)
+      "location": "Georgia Institute of Technology", // From Experience section (Member)
+      "position": "Member",
+      "url": "", // Not provided in tex
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "Discuss practical skills in analyzing, exploiting, and defending computer systems. Participate in CTFs covering different areas such as reverse engineering. Explore the basics of cryptography such as symmetric and asymmetric cryptography.",
+      "highlights": [
+         "Discuss practical skills in analyzing, exploiting, and defending computer systems",
+         "Participate in CTFs covering different areas such as reverse engineering",
+         "Explore the basics of cryptography such as symmetric and asymmetric cryptography"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Georgia Institute of Technology",
+      "location": "Atlanta, GA",
+      "url": "", // Not provided in tex
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2022",
+      "endDate": "2026",
+      "score": "3.89/4.0",
+      "courses": [
+        "Minor in FinTech",
+        "Threads in Information Internetworks and Intelligence"
+      ]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  "awards": [], // Not provided in tex
   "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+     {
+      "name": "Introduction to Computing using Python",
+      "date": "", // Not provided in tex
+      "issuer": "edX Programs",
+      "url": "", // Not provided in tex
+      "icon": "" // Not provided in tex
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "publications": [], // Not provided in tex
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming",
+      "level": "", // Not provided in tex
+      "icon": "", // Not provided in tex
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python", "JavaScript", "Java", "C", "ReactJS", "HTML", "CSS", "SQL"
+      ]
+    },
+     {
+      "name": "Technologies",
+      "level": "", // Not provided in tex
+      "icon": "", // Not provided in tex
+      "keywords": [
+        "MySQL", "Firebase", "React", "Node.js", "Express.js", "JavaFX", "Git", "GitHub", "Jira", "Figma", "Postman", "Docker", "Jupyter Notebook", "NumPy", "Pandas", "Android Studio"
+      ]
+    },
+    {
+      "name": "Concepts",
+      "level": "", // Not provided in tex
+      "icon": "", // Not provided in tex
+      "keywords": [
+         "Detailed Design Documentation", "Product Management", "Agile Development", "Scrum"
+      ]
+    },
+    {
+      "name": "Coursework",
+      "level": "", // Not provided in tex
+      "icon": "", // Not provided in tex
+      "keywords": [
+        "Object Oriented Programming", "Objects and Design", "Data Structures and Algorithms", "Artificial Intelligence", "Systems and Networks", "Computer Networking", "Database Systems"
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "languages": [], // Not provided in tex
+  "interests": [], // Not provided in tex
+  "references": [], // Not provided in tex
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Military Educational App",
+      "summary": "Led a team of 4, effectively communicating with the client to ensure project alignment with their needs. Integrated database technologies into the app, enhancing client-side interaction and user experience. Integrated requested features from client using Javascript improving the app's use cases for over 50,000 users. Leveraged Figma and Maze for innovative front-end design, improving the app's usability.",
+      "highlights": [
+        "Led a team of 4, effectively communicating with the client to ensure project alignment with their needs",
+        "Integrated database technologies into the app, enhancing client-side interaction and user experience",
+        "Integrated requested features from client using Javascript improving the app's use cases for over 50,000 users",
+        "Leveraged Figma and Maze for innovative front-end design, improving the app's usability"
+      ],
+      "startDate": "2023",
+      "endDate": "2024",
+      "url": "" // Not provided in tex
+    },
+    {
+      "name": "Game Suite",
+      "summary": "Completed a five-person large-scale programming project using Android Studio that implements 3 separate games. Used agile principles to iteratively develop and change application based on user feedback. Analyzed specification requirements using domain models, use cases, and robustness diagrams. Showcased familiarity and implementation of various design patterns such as singleton and strategy to reduce code by 20%. Managed code repositories using Git, facilitating smooth collaboration among team members. Integrated SOLID and GRASP principles in various software design problems. Used TDD throughout the project, ensuring high-quality code and efficient debugging process. Applied OOD and OOP skills through the design and implementation of the individual games.",
+      "highlights": [
+        "Completed a five-person large-scale programming project using Android Studio that implements 3 separate games",
+        "Used agile principles to iteratively develop and change application based on user feedback",
+        "Analyzed specification requirements using domain models, use cases, and robustness diagrams",
+        "Showcased familiarity and implementation of various design patterns such as singleton and strategy to reduce code by 20%",
+        "Managed code repositories using Git, facilitating smooth collaboration among team members",
+        "Integrated SOLID and GRASP principles in various software design problems",
+        "Used TDD throughout the project, ensuring high-quality code and efficient debugging process",
+        "Applied OOD and OOP skills through the design and implementation of the individual games"
+      ],
+      "startDate": "2023",
+      "endDate": "2023", // Assumed end date
+      "url": "" // Not provided in tex
+    },
+    {
+      "name": "Apple Card",
+      "summary": "Analyzed the US credit card industry ($1.21T debt) to identify fintech growth opportunities by addressing consumer pain points like complex rewards/fees, security vulnerabilities, and exclusionary underwriting. Conducted an in-depth case study of the Apple Card, evaluating its strategy to simplify rewards/fees, enhance security, and its market impact (12M+ users, partner losses, competitive interest). Assessed competitive responses from traditional finance (e.g., Capital One/Discover merger, new card products) and concluded limited overall market disruption by the Apple Card despite user adoption.",
+      "highlights": [
+        "Analyzed the US credit card industry ($1.21T debt) to identify fintech growth opportunities by addressing consumer pain points like complex rewards/fees, security vulnerabilities, and exclusionary underwriting.",
+        "Conducted an in-depth case study of the Apple Card, evaluating its strategy to simplify rewards/fees, enhance security, and its market impact (12M+ users, partner losses, competitive interest).",
+        "Assessed competitive responses from traditional finance (e.g., Capital One/Discover merger, new card products) and concluded limited overall market disruption by the Apple Card despite user adoption."
+      ],
+      "startDate": "2025",
+      "endDate": "2025", // Assumed end date
+      "url": "" // Not provided in tex
     }
   ]
 }
