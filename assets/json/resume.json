@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Ryan Doan",
-    "label": "Student", // Assuming label based on content
+    "label": "Student",
     "image": "",
     "email": "rdoan9@gatech.edu",
-    "phone": "", // Not provided in tex
-    "url": "https://msa-209.github.io/", // From tex homepage field
+    "phone": "", 
+    "url": "https://msa-209.github.io",
     "summary": "Computer Science student at Georgia Institute of Technology with experience in web design, research assistance, and software development projects.", // Generated summary
     "location": {
-      "address": "", // Not provided in tex
-      "postalCode": "", // Not provided in tex
-      "city": "Atlanta", // Inferred from Education/Experience
-      "countryCode": "US", // Inferred
-      "region": "GA" // Inferred
+      "address": "",
+      "postalCode": "",
+      "city": "Atlanta", 
+      "countryCode": "US",
+      "region": "GA" 
     },
     "profiles": [
       {
@@ -29,9 +29,9 @@
   },
   "work": [
     {
-      "name": "Super Purposes", // From Experience section
+      "name": "Super Purposes", 
       "position": "Web Designer Specialist",
-      "url": "", // Not provided in tex
+      "url": "", 
       "startDate": "2024",
       "endDate": "Present",
       "summary": "Conceptualize and create intuitive, engaging, and brand-consistent web experiences. Continually improve and optimize user experience for sites using HTML and CSS. Collaborate in concept development and design ideation cross-functionally.",
@@ -71,12 +71,12 @@
       ]
     }
   ],
-  "volunteer": [
+  "Extracurricular": [
     {
-      "organization": "GreyHat", // From Experience section (Member)
-      "location": "Georgia Institute of Technology", // From Experience section (Member)
+      "organization": "GreyHat",
+      "location": "Georgia Institute of Technology", 
       "position": "Member",
-      "url": "", // Not provided in tex
+      "url": "",
       "startDate": "2022",
       "endDate": "Present",
       "summary": "Discuss practical skills in analyzing, exploiting, and defending computer systems. Participate in CTFs covering different areas such as reverse engineering. Explore the basics of cryptography such as symmetric and asymmetric cryptography.",
@@ -91,7 +91,7 @@
     {
       "institution": "Georgia Institute of Technology",
       "location": "Atlanta, GA",
-      "url": "", // Not provided in tex
+      "url": "", 
       "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2022",
@@ -103,54 +103,54 @@
       ]
     }
   ],
-  "awards": [], // Not provided in tex
+  "awards": [],
   "certificates": [
      {
       "name": "Introduction to Computing using Python",
-      "date": "", // Not provided in tex
+      "date": "",
       "issuer": "edX Programs",
-      "url": "", // Not provided in tex
-      "icon": "" // Not provided in tex
+      "url": "", 
+      "icon": ""
     }
   ],
-  "publications": [], // Not provided in tex
+  "publications": [], 
   "skills": [
     {
       "name": "Programming",
-      "level": "", // Not provided in tex
-      "icon": "", // Not provided in tex
+      "level": "",
+      "icon": "", 
       "keywords": [
         "Python", "JavaScript", "Java", "C", "ReactJS", "HTML", "CSS", "SQL"
       ]
     },
      {
       "name": "Technologies",
-      "level": "", // Not provided in tex
-      "icon": "", // Not provided in tex
+      "level": "",
+      "icon": "", 
       "keywords": [
         "MySQL", "Firebase", "React", "Node.js", "Express.js", "JavaFX", "Git", "GitHub", "Jira", "Figma", "Postman", "Docker", "Jupyter Notebook", "NumPy", "Pandas", "Android Studio"
       ]
     },
     {
       "name": "Concepts",
-      "level": "", // Not provided in tex
-      "icon": "", // Not provided in tex
+      "level": "",
+      "icon": "", 
       "keywords": [
          "Detailed Design Documentation", "Product Management", "Agile Development", "Scrum"
       ]
     },
     {
       "name": "Coursework",
-      "level": "", // Not provided in tex
-      "icon": "", // Not provided in tex
+      "level": "",
+      "icon": "", 
       "keywords": [
         "Object Oriented Programming", "Objects and Design", "Data Structures and Algorithms", "Artificial Intelligence", "Systems and Networks", "Computer Networking", "Database Systems"
       ]
     }
   ],
-  "languages": [], // Not provided in tex
-  "interests": [], // Not provided in tex
-  "references": [], // Not provided in tex
+  "languages": [], 
+  "interests": [], 
+  "references": [],
   "projects": [
     {
       "name": "Military Educational App",
@@ -163,7 +163,7 @@
       ],
       "startDate": "2023",
       "endDate": "2024",
-      "url": "" // Not provided in tex
+      "url": "" 
     },
     {
       "name": "Game Suite",
@@ -179,8 +179,8 @@
         "Applied OOD and OOP skills through the design and implementation of the individual games"
       ],
       "startDate": "2023",
-      "endDate": "2023", // Assumed end date
-      "url": "" // Not provided in tex
+      "endDate": "2023", 
+      "url": "" 
     },
     {
       "name": "Apple Card",
@@ -191,8 +191,8 @@
         "Assessed competitive responses from traditional finance (e.g., Capital One/Discover merger, new card products) and concluded limited overall market disruption by the Apple Card despite user adoption."
       ],
       "startDate": "2025",
-      "endDate": "2025", // Assumed end date
-      "url": "" // Not provided in tex
+      "endDate": "2025",
+      "url": ""
     }
   ]
 }
