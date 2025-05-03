@@ -6,7 +6,7 @@
     "email": "rdoan9@gatech.edu",
     "phone": "", 
     "url": "https://msa-209.github.io",
-    "summary": "Computer Science student at Georgia Institute of Technology with experience in web design, research assistance, and software development projects.", // Generated summary
+    "summary": "Computer Science student at Georgia Institute of Technology with experience in web design, research assistance, and software development projects.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -18,12 +18,12 @@
       {
         "network": "linkedin",
         "username": "ryandoan21",
-        "url": "https://linkedin.com/in/ryandoan21" // Assumed URL structure
+        "url": "https://linkedin.com/in/ryandoan21"
       },
       {
         "network": "github",
         "username": "MSA-209",
-        "url": "https://github.com/MSA-209" // Assumed URL structure
+        "url": "https://github.com/MSA-209"
       }
     ]
   },
@@ -42,10 +42,10 @@
       ]
     },
     {
-      "name": "Georgia Institute of Technology", // From Experience section (Grader)
-      "location": "School of Mathematics", // From Experience section (Grader)
+      "name": "Georgia Institute of Technology",
+      "location": "School of Mathematics",
       "position": "Grader",
-      "url": "", // Not provided in tex
+      "url": "",
       "startDate": "2024",
       "endDate": "Present",
       "summary": "Grade and proctor hundreds of students in statistics and applications. Interacted with professors on creating consistent grading rubrics.",
@@ -55,12 +55,12 @@
       ]
     },
      {
-      "name": "Georgia Institute of Technology", // From Research section
-      "location": "College of Computing", // From Research section
+      "name": "Georgia Institute of Technology",
+      "location": "College of Computing",
       "position": "Research Assistant",
-      "url": "", // Not provided in tex
+      "url": "",
       "startDate": "2024",
-      "endDate": "", // Only start date provided
+      "endDate": "",
       "summary": "Researched various generative AI tools for design and implementation of software processes. Designed various diagrams for ChromeOS Whiteboard using LucidChart, Eraser.io, and Figma. Involved in the development of various MMFs for ChromeOS Whiteboard using modified MERN stack. Reviewed students diagrams on the quality created and gave feedback on how to improve future diagrams. Highlighted AI tool impact of increasing productivity by around 50% compared to traditional methods.",
       "highlights": [
         "Researched various generative AI tools for design and implementation of software processes",
