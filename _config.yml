@@ -181,20 +181,16 @@ exclude:
   - Gemfile.lock
   - INSTALL.md
   - LICENSE
-  - _pages/blog.md
-  - _pages/news.md
-  - _pages/publications.md
   - lighthouse_results/
+  - _news/announcement_*.md
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
-  - purgecss.config.js
-  - README.md
-  - readme_preview/
-  - vendor
+  - _pages/blog.md
   - _pages/dropdown.md
-  - _pages/repositories.md
+  - _pages/news.md
   - _pages/profiles.md
+  - _pages/publications.md
 keep_files:
   - CNAME
   - .nojekyll
